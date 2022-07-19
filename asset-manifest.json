@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oshsun/reactdelme.git/static/css/main.a6baa943.css",
+    "main.js": "/oshsun/reactdelme.git/static/js/main.510b3f9d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/oshsun/reactdelme.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/oshsun/reactdelme.git/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/oshsun/reactdelme.git/index.html",
+    "main.a6baa943.css.map": "/oshsun/reactdelme.git/static/css/main.a6baa943.css.map",
+    "main.510b3f9d.js.map": "/oshsun/reactdelme.git/static/js/main.510b3f9d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/oshsun/reactdelme.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6baa943.css",
+    "static/js/main.510b3f9d.js"
+  ]
+}
